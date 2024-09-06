@@ -32,9 +32,11 @@ Act 4 trabajando con listas, tuplas, conjuntos y diccionarios
 
 -codigo
 
--![image](https://github.com/user-attachments/assets/1607fd16-e962-4c49-966b-1beb3ce602df)
+-![image](https://github.com/user-attachments/assets/3831c74a-6354-4d35-9917-5442e54630dc)
+
 
 -resultados
 
--![image](https://github.com/user-attachments/assets/0d25432d-5271-4be9-b415-68ebb442c82f)
+-![image](https://github.com/user-attachments/assets/ddb08bce-5703-4a99-acf8-2e49e9437562)
+
 
